@@ -7,3 +7,5 @@ prevent MitM attacks ive failed, ive tried making my own CA-certs etc etc but wo
 Even tho this wasnt the main tool i was working on but why not release it, as i wont work on it anymore, atleast for a long time and stick to using burpsuite as a replay proxy.
 
 Start the local-proxy-listener0.py using Python3 and then run ex dirsearch and it will print out all requests in GET request format in stdout.
+
+![alt text](http://url/to/img.png](https://github.com/a6thmfsin/local-proxy-listener/blob/main/tool.png)https://github.com/a6thmfsin/local-proxy-listener/blob/main/tool.png)
