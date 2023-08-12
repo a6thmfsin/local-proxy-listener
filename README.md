@@ -8,5 +8,4 @@ Even tho this wasnt the main tool i was working on but why not release it, as i 
 
 Start the local-proxy-listener0.py using Python3 and then run ex dirsearch and it will print out all requests in GET request format in stdout.
 
-
-![alt text]([https://github.com/a6thmfsin/Status-Code-Header-checker/blob/main/bash-status-script.png](https://user-images.githubusercontent.com/63813294/162187569-ac217b84-3466-4553-99c3-0e3282fa8fea.png](https://github.com/a6thmfsin/local-proxy-listener/blob/main/tool.png)https://github.com/a6thmfsin/local-proxy-listener/blob/main/tool.png))
+![alt text](https://github.com/a6thmfsin/local-proxy-listener/blob/main/tool.png)
